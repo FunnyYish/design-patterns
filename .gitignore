@@ -1,4 +1,1 @@
-*.classpath
-*.project
-design-patterns/.settings/org.eclipse.core.resources.prefs
-*.prefs
+/target/
